@@ -1,4 +1,5 @@
 # Image Steganography using LSB Encoding (Python + Pillow)
+(Text hidden in image)
 
 Hide and extract a secret text message inside an image by modifying the
 least significant bit (LSB) of its pixel values.
